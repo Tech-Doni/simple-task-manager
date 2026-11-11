@@ -1,4 +1,4 @@
-# Pritech Task Manager
+# Task Manager
 
 A clean and lightweight mobile task manager built with Expo and React Native. It allows users to create, organize, review, and complete personal tasks while keeping their data available between app sessions.
 
